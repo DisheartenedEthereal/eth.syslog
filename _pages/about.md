@@ -1,32 +1,22 @@
 ---
 layout: page
-title: About the Purelog Theme
+title: About Me, The website & The wiki
 permalink: /about/
 ---
+# The Me
+Hello, This is Ethereal.
+I set this place up to be able to share some longer posts & maybe even some conclusions, this is also a place to store my future **Shadow-wiki**.
 
-**Purelog** is a responsive, sidebar theme for the popular JAMstack generator Jekyll that only uses the minimal [**Pure.css** framework](https://github.com/pure-css/pure) (hence the name!), while still following the best practices possible for accessibility and search-engine optimization.
+As for me, I'm a 19yo cyber security enthusiast, i do programming on on occasions (mainly in low-level languages like C, or scripts with Python and Perl), I am obsessed with privacy and free & open-source software and I aim to spread its word.
 
-I created this after finishing [Watery](https://github.com/brennanbrown/watery) (which this theme is built off of), as a way to add more functionality and design while still remaining as lightweight as possible.
+The main method of contacting me is through email : []()[Ethereal@duck.com](mailto:ethereal@duck.com)
+# The Wiki
 
-This project is aimed towards those looking for an interesting theme for Jekyll that has features that aren't found commonly elsewhere, which I'll list down below.
+The wiki is mainly a place to store either:
+- Anonymity focused software
+- Privacy focused software
 
-### Features
+and also to compare different solutions in different use-cases over time, it's also up for contribution, if anyone is interested to discuss me on it.
+# The website
 
-Here are a few interesting features of this Jekyll theme:
-
-- A fully customizable and empty `_BLANK_config.yml` to make getting up-and-running easy.
-- A speedy, on-site search function using [Simply Jekyll Search](https://github.com/christian-fei/Simple-Jekyll-Search).
-- Custom collections for different types of material (note-taking, journal writing, etc.)
-- An auto-generating archive page that displays all entries from _all_ collections.
-- Having a `_pages` collection for easier organization.
-- An author bio at the end of each post. (Located in `_inclues/author.html`)
-- Full Rouge support for syntax highlighting. (Currently using `base16.solarized.light`)
-- Auto-generated RSS feed, sitemap, accessibility features, and search-engine optimization.
-
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-[jekyll-organization]: https://github.com/jekyll
+The website is built using Jekyll, it is published using Surge and it's currently using the [Pure-log](https://github.com/brennanbrown/purelog) template. Cool guy, cool theme.

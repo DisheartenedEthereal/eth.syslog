@@ -18,16 +18,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "Purelog: for Writers"
-email: mail@brennanbrown.ca
+title: "Syslog: Ethereal"
+email: ethereal@duck.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A responsive sidebar Jekyll theme using the Pure.css framework, 
-  designed for writers and bloggers of all kinds.
+  All kinds of things happen in this place. none are particularly interesting.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://purelog.netlify.app" # the base hostname & protocol for your site, e.g. http://example.com
-repository: brennanbrown/purelog
-twitter: brennankbrown
-github: brennanbrown
+url: "https://eth-syslog.surge.sh" # the base hostname & protocol for your site, e.g. http://example.com
+repository: disheartenedethereal/eth.syslog
+twitter: DetherealAlt
+github: disheartenedethereal
 
 header_image: assets/profile.png
 
@@ -35,14 +34,10 @@ google_analytics:
 comments: true
 disqus: purelog-jekyll
 
-author: Brennan K. Brown
+author: D.Ethereal
 author_bio: >-
-  Hey there! 😄 My name is Brennan, I'm a 25-year-old Métis web developer and 
-  content strategist from Winnipeg, Manitoba and currently reside in Calgary, 
-  Alberta. I've recently compeleted a Full Stack Developer Program at EvolveU, 
-  and I'm looking to help those that need web development work done, or 
-  searching for ideas and management for their next content project.
-author_pic: https://brennanbrown.ca/img/avatar.png
+  Hello, I'm Ethereal, I'm a cyber security enthusiast and i do a bunch of other stuffs.
+author_pic: http://eth-syslog.surge.sh/assets/profile.png
 paginate: 4
 paginate_path: "/:num/"
 
@@ -66,7 +61,7 @@ defaults:
       type: "posts" # previously `post` in Jekyll 2.2.
     values:
       layout: "post"
-      author: Brennan K. Brown
+      author: D.Ethereal
       avatar: assets/profile-sm.png
   - scope:
       path: ""
@@ -99,3 +94,4 @@ exclude:
   - ".jekyll-cache"
   - "Gemfile"
   - "Gemfile.lock"
+  - "temp"
