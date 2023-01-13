@@ -1,1 +1,0 @@
-Hello, this posts serves as a template for telegram's instant view capability. 
