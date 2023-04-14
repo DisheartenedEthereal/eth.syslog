@@ -23,7 +23,7 @@ email: ethereal@duck.com
 description: >- # this means to ignore newlines until "baseurl:"
   All kinds of things happen in this place. none are particularly interesting.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://eth-syslog.surge.sh" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://eth.seerintelligence.com" # the base hostname & protocol for your site, e.g. http://example.com
 repository: disheartenedethereal/eth.syslog
 twitter: DetherealAlt
 github: disheartenedethereal
@@ -36,7 +36,7 @@ disqus: purelog-jekyll
 
 author: D.Ethereal
 author_bio: >-
-  Hello, I'm Ethereal, I'm a cyber security enthusiast and i do a bunch of other stuffs.
+  Hello, I'm Ethereal, I'm a cyber security enthusiast and I do a bunch of other stuffs.
 author_pic: http://eth-syslog.surge.sh/assets/profile.png
 paginate: 4
 paginate_path: "/:num/"
@@ -53,7 +53,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-paginate
-permalink: /:title
+permalink: /:title.index.html
 
 defaults:
   - scope:

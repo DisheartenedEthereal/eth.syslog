@@ -1,1 +1,2 @@
-bundle exec jekyll build && surge --domain eth-syslog.surge.sh _site/
+
+bundle exec jekyll build &&  ncftpput -R -v -u "$ftp_username" -p "$ftp_password" $ftp_location $ftp_folder _site/* 
