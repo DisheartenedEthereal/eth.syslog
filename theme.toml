@@ -1,0 +1,16 @@
+name = "OneLou"
+license = "MIT"
+licenselink = "https://github.com/disheartenedethereal/eth.syslog/blob/main/LICENSE"
+description = "hugo theme."
+
+homepage = "https://disheartenedethereal/eth.syslog"
+demosite = "https://onelou.netlify.app/"
+
+tags = ["blog", "clean", "light", "dark", "personal"]
+features = ["fast", "simple"]
+
+min_version = "0.87.0"
+
+[author]
+  name = "Ethereal"
+  homepage = "https://eth.seerintelligence.com"

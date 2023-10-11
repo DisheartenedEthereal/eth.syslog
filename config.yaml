@@ -1,0 +1,52 @@
+module:
+    hugoVersion:
+        extended: true
+        min: "0.87.0"
+baseURL: http://localhost:1313/
+title: syslog(Eth);
+keywords: Ethereal syslog
+description: Eth's syslog
+paginate: 10
+hasCJKLanguage: false 
+languageCode: 'en-us'
+theme: # "hugo-theme-onelou"
+params:
+  opengraph:
+    github: 'https://github.com/disheartenedethereal'
+    twitter: 'https://twitter.com/detherealalt'
+    instagram: 'https://instagram.com/aleph.nought'
+    spotify: 'spotify.com/'
+  footer:
+    hidePowered: true # Powered by Hugo, great tool!
+    since: 2023
+    copyright: seerintelligence.com | all rights reserved
+  prefix:
+    h2: "※ "
+    h3: "✧ "
+menu:
+  navs:
+    - name: Blog
+      params:
+        img: /img/logo1.png
+      url: /post/
+      weight: 1
+    - name: Note
+      params:
+        img: /img/logo2.png
+      weight: 2
+      url: /note/
+    - name: Projects
+      params:
+        img: /img/logo2.png
+      url: /projects/
+      weight: 2
+    - name: About
+      params:
+        img: /img/logo3.png
+      url: /about
+      weight: 3
+    - name: 404
+      params:
+        img: /img/logo3.png
+      url: /404.html
+      weight: 4
