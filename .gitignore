@@ -4,7 +4,7 @@ _site/
 .jekyll-metadata
 updater.sh
 .DS_Store
-
+public/
 # Created by https://www.gitignore.io/api/macos
 # Edit at https://www.gitignore.io/?templates=macos
 
