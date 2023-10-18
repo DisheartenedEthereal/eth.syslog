@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My Blog on syslog(Eth);</title>
+    <link>http://localhost:1313/post/</link>
+    <description>Recent content in My Blog on syslog(Eth);</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 02 Jan 2023 10:17:19 +0800</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hell or the Hangman?</title>
+      <link>http://localhost:1313/post/post1/</link>
+      <pubDate>Mon, 02 Jan 2023 10:17:19 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/post1/</guid>
+      <description>Send me to Hell Or to the gallows. . .
+Primordial has a song, It&amp;rsquo;s called &amp;ldquo;To hell, or the Hangman&amp;rdquo;, I was listening to it yesterday afternoon, and it got me thinking, what would I prefer?
+That sounds like a stupid question, and it is, because I randomly opened Emacs and started to write something I had no intention of writing in the first place, I was mostly excited to try out this date +&amp;quot;%M-%m-%d&amp;quot; command that I constructed for Jekyll, but now I&amp;rsquo;m hooked.</description>
+    </item>
+    
+  </channel>
+</rss>

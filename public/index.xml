@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>syslog(Eth);</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on syslog(Eth);</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 02 Jan 2023 10:17:19 +0800</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hell or the Hangman?</title>
+      <link>http://localhost:1313/post/post1/</link>
+      <pubDate>Mon, 02 Jan 2023 10:17:19 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/post1/</guid>
+      <description>Send me to Hell Or to the gallows. . .
+Primordial has a song, It&amp;rsquo;s called &amp;ldquo;To hell, or the Hangman&amp;rdquo;, I was listening to it yesterday afternoon, and it got me thinking, what would I prefer?
+That sounds like a stupid question, and it is, because I randomly opened Emacs and started to write something I had no intention of writing in the first place, I was mostly excited to try out this date +&amp;quot;%M-%m-%d&amp;quot; command that I constructed for Jekyll, but now I&amp;rsquo;m hooked.</description>
+    </item>
+    
+    <item>
+      <title>2022-09-02</title>
+      <link>http://localhost:1313/note/note2/</link>
+      <pubDate>Fri, 02 Sep 2022 10:22:14 +0800</pubDate>
+      
+      <guid>http://localhost:1313/note/note2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2022-09-01</title>
+      <link>http://localhost:1313/note/note1/</link>
+      <pubDate>Thu, 01 Sep 2022 10:21:27 +0800</pubDate>
+      
+      <guid>http://localhost:1313/note/note1/</guid>
+      <description>Note</description>
+    </item>
+    
+    <item>
+      <title>My Project</title>
+      <link>http://localhost:1313/projects/project1/</link>
+      <pubDate>Thu, 01 Sep 2022 10:17:19 +0800</pubDate>
+      
+      <guid>http://localhost:1313/projects/project1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>My Project</title>
+      <link>http://localhost:1313/projects/project2/</link>
+      <pubDate>Thu, 01 Sep 2022 10:17:19 +0800</pubDate>
+      
+      <guid>http://localhost:1313/projects/project2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>My Project</title>
+      <link>http://localhost:1313/projects/project3/</link>
+      <pubDate>Thu, 01 Sep 2022 10:17:19 +0800</pubDate>
+      
+      <guid>http://localhost:1313/projects/project3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Thu, 11 Aug 2022 10:24:26 +0800</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      <description>The Me Hello, This is Ethereal. I set this place up to be able to share some longer posts &amp;amp; maybe even some conclusions, this is also a place to store my future Shadow-wiki.
+As for me, I&amp;rsquo;m a 19yo cybersecurity enthusiast, I do programming on occasions (mainly in low-level languages like C, or scripts with Python and Perl), I am obsessed with privacy and free &amp;amp; open-source software and I aim to spread its word.</description>
+    </item>
+    
+  </channel>
+</rss>
